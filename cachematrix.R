@@ -2,7 +2,7 @@
 ## answer for later use.
 
 ## The first function creates four nested functions which allow you to set the matrix, get it,
-## 
+## set a matrix inverse and get the matrix inverse
 
 makeCacheMatrix <- function(x = matrix()) {
         m <- NULL
